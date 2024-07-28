@@ -36,6 +36,10 @@ This project uses OpenCV to detect faces and eyes in real-time through a webcam.
     - Press `q` to quit the application.
 
 ## Code Explanation
+[ how it works video is here](https://drive.google.com/file/d/1IYgScPuvyAuTTDNehUAkIaRwiuaS4d_2/view?usp=drive_link )                                                         
+  
+  
+  
 
 ### Import Libraries
 The required libraries are imported at the beginning of the script.
@@ -90,6 +94,7 @@ This project uses OpenCV and Tkinter to capture video from a webcam, display it 
     - Close the GUI window.
 
 ## Code Explanation
+[How it works video is here](https://drive.google.com/file/d/1orWtcHvrB5HLUeBdT7B8Zq8xMoHLEunz/view?usp=drive_link)
 
 ### Import Libraries
 The required libraries are imported at the beginning of the script.
