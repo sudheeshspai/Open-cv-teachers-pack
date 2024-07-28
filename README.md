@@ -1,4 +1,4 @@
-# 1st project To look weather student is there or not in class 
+# 1st project To look whether student is there or not in class 
 
 ## Description
 This project uses OpenCV to detect faces and eyes in real-time through a webcam. It also integrates with Tkinter to show a warning message if a face is not detected for more than 10 seconds. This can be useful for monitoring purposes, such as checking if someone is present in front of the camera.
@@ -40,11 +40,15 @@ This project uses OpenCV to detect faces and eyes in real-time through a webcam.
 ### Import Libraries
 The required libraries are imported at the beginning of the script.
 ```python
-import cv2
+ import cv2
 import time
 import numpy as np
 import tkinter as tk
-from tkinter import messagebox
+from tkinter import messagebox  
+```
+
+
+
 
 #2nd To know if student is opening other website
 
