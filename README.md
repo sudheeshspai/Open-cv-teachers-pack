@@ -50,7 +50,7 @@ from tkinter import messagebox
 
 
 
-#2nd To know if student is opening other website
+# 2nd To know if student is opening other website
 
 ## Description
 This project uses OpenCV and Tkinter to capture video from a webcam, display it in a GUI, and monitor the number of open browser tabs. If the number of open tabs increases, the application captures a screenshot from the webcam.
